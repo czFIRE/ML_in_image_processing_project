@@ -12,4 +12,6 @@ for line in file.readlines():
     os.system("wget " + basic_url + line[:-1] + ".zip")
     shutil.unpack_archive("./" + line[:-1] + ".zip")
 
+file.close()
+
 print("All done!")
