@@ -1,5 +1,9 @@
 dataset/
 notebooks/tmp/
+notebooks/.ckpt/
+notebooks/output_images/
+notebooks/weights/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
