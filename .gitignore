@@ -3,6 +3,7 @@ notebooks/tmp/
 notebooks/.ckpt/
 notebooks/output_images/
 notebooks/weights/
+notebooks/pa228_project.h5
 
 
 # Byte-compiled / optimized / DLL files
